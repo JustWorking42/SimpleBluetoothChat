@@ -1,0 +1,2 @@
+# SimpleBluetoothChat
+App for test.
